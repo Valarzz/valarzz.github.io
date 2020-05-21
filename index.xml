@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://valarzz.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 May 2020 11:20:09 +0800</lastBuildDate>
+    
+	<atom:link href="https://valarzz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://valarzz.github.io/post/blog/</link>
+      <pubDate>Thu, 21 May 2020 11:20:09 +0800</pubDate>
+      
+      <guid>https://valarzz.github.io/post/blog/</guid>
+      <description>Hello World！ $$ a \times b=c $$ 加强
+下划线
+斜体
+删除线
+int main() { printf(&amp;quot;Hello, World!&amp;quot;); return 0; }  </description>
+    </item>
+    
+  </channel>
+</rss>
